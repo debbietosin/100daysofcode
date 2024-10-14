@@ -8,7 +8,7 @@
 <body>
 <div> 
 <h1>
-  100 days code. Skill Improvement. Creation of Personal PROJECT.
+  100-day code. Skill Improvement. Creation of Personal PROJECT.
 </h1>
 </div>
   <h2> 
